@@ -1,8 +1,14 @@
-## 说明文档
+# 说明文档
 
 **代码采用Jupyter Notebook编写，实验记录均在代码ipynb文件中保存**
+原论文：[pdf](https://arxiv.org/pdf/1707.02921))
 
-#### **EDSR_NAF**：
+## Configuration Environment
+```
+pip install -r requirements.txt
+```
+
+## **EDSR_NAF**：
 
 edsr_nafblock-盲超分.ipynb:盲超分代码
 
@@ -24,7 +30,7 @@ result_NAF.png：基础NAFBlock测试结果图
 
 result_NAF_non.png：盲超分测试结果图
 
-#### EDSR_Res：
+## EDSR_Res：
 
 edsr_resblock.ipynb：ResBlock代码
 
