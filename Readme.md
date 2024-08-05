@@ -1,7 +1,8 @@
 # 说明文档
 
 **代码采用Jupyter Notebook编写，实验记录均在代码ipynb文件中保存**
-原论文：[pdf](https://arxiv.org/pdf/1707.02921))
+
+原论文：[pdf](https://arxiv.org/pdf/1707.02921)
 
 ## Configuration Environment
 ```
